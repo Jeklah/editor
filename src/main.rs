@@ -1,3 +1,4 @@
+#![warnall, clippy::pedantic]
 mod editor;
 
 use editor::Editor;
